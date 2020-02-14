@@ -19,6 +19,7 @@ install:
 * `ls`
 * `cd DarkFly-Tool`
 * `ls`
+* `chmod +x pythan.py`
 * `python2 install.py`
 
 ```
