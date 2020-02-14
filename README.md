@@ -17,9 +17,9 @@ install:
 * `pkg update`
 * `git clone https://github.com/ShekharSumanPro/DarkFly.git`
 * `ls`
-* `cd DarkFly-Tool`
+* `cd DarkFly`
 * `ls`
-* `chmod +x pythan.py`
+* `chmod +x install.py`
 * `python2 install.py`
 
 ```
