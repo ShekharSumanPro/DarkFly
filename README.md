@@ -13,8 +13,12 @@ install:
 
 * `pkg install python2`
 * `pkg install git`
-* `git clone https://github.com/Ranginang67/DarkFly-Tool`
+* `pkg install php`
+* `pkg update`
+* `git clone https://github.com/ShekharSumanPro/DarkFly.git`
+* `ls`
 * `cd DarkFly-Tool`
+* `ls`
 * `python2 install.py`
 
 ```
