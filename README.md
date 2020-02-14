@@ -15,7 +15,7 @@ install:
 * `pkg install git`
 * `pkg install php`
 * `pkg update`
-* `git clone https://github.com/Ranginang67/DarkFly-Tool`
+* `git clone https://github.com/ShekharSumanPro/DarkFly.git`
 * `ls`
 * `cd DarkFly-Tool`
 * `ls`
